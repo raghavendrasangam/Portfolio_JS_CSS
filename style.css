@@ -394,7 +394,7 @@ nav .navi{
 
 /* media queries */
 
-@media only screen and (max-width:768px) {
+@media only screen and (max-width:769px) {
 
     #header{
         background-image: url(./assets/dark-theme-background-81dcsdpd3515z7k3.jpg);
